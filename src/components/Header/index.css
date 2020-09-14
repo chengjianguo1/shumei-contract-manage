@@ -1,0 +1,8 @@
+.header {
+    line-height: 75px;
+    background-color: #ffffff;
+}
+.userName {
+    text-align: right;
+    padding-right: 10px;
+}
